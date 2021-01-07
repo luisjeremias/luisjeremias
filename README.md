@@ -10,8 +10,8 @@
 ### =>I love studying and coding as a team
 
 <p align="center">
-  <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisjeremias&layout=compact&hide=html&hide_border=true" alt="luisjeremias" />
-    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=luisjeremias&show_icons=true&hide_border=true" alt="luisjeremias" /></p>
+    <img width="40%" style="padding: 0.3rem" align="end" src="https://github-readme-stats.vercel.app/api?username=luisjeremias&show_icons=true&hide_border=true" alt="luisjeremias" />
+</p>
     
 # My technologies
 
