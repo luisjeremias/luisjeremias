@@ -1,16 +1,13 @@
-### HELLO, MY NAME IS LUIS 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**luisjeremias/luisjeremias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# HELLO, MY NAME IS LUIS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
+![](https://visitor-badge.glitch.me/badge?page_id=luisjeremias.luisjeremias)
+[![GitHub ;uisjeremias](https://img.shields.io/github/followers/luisjeremias?label=follow&style=social)](https://github.com/luisjeremias)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-geremias/)[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luisjeremias@gmail.com)[![Whats](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+258846125527)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### =>Learning to be a fullstack developer
+### =>Always looking to learn something new
+### =>I’m currently learning NodeJS
+### =>I love studying and coding as a team
+
+[![Luis github stats](https://github-readme-stats.vercel.app/api?username=luisjeremias)](https://github.com/anuraghazra/github-readme-stats)
+# My technologies
+<p align="center" style="min-width: 300px"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="html5" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png" alt="typescript" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" alt="vuejs" width="40" height="40"/> </p>
