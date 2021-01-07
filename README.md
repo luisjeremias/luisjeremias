@@ -14,5 +14,12 @@
     
 # My technologies
 
-<p align="left" style="min-width: 300px"> <img src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="html5" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/><img src="https://https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/><img src="https://https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
+<p align="left" style="min-width: 300px">
+  <img src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/>
+  <img src="https://https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
 
