@@ -8,6 +8,11 @@
 ### =>I’m currently learning NodeJS
 ### =>I love studying and coding as a team
 
-[![Luis github stats](https://github-readme-stats.vercel.app/api?username=luisjeremias)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisjeremias&layout=compact&hide=html&hide_border=true" alt="luisjeremias" />
+    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=luisjeremias&show_icons=true&hide_border=true" alt="luisjeremias" /></p>
+    
 # My technologies
-<p align="center" style="min-width: 300px"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="html5" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png" alt="typescript" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" alt="vuejs" width="40" height="40"/> </p>
+
+<p align="left" style="min-width: 300px"> <img src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="html5" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/><img src="https://https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/><img src="https://https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
+
