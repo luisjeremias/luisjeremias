@@ -9,8 +9,8 @@
 ### =>I’m currently learning NodeJS
 ### =>I love studying and coding as a team
 
-<p align="left">
-    <img width="40%" style="padding: 0.3rem" align="left" src="https://github-readme-stats.vercel.app/api?username=luisjeremias&show_icons=true&hide_border=true" alt="luisjeremias" />
+<p align="center">
+    <img width="50%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=luisjeremias&show_icons=true&hide_border=true" alt="luisjeremias" />
 </p>
     
 # My technologies
