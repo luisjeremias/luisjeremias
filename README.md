@@ -1,6 +1,6 @@
 # HELLO, MY NAME IS LUIS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 ![](https://visitor-badge.glitch.me/badge?page_id=luisjeremias.luisjeremias)
-[![GitHub ;uisjeremias](https://img.shields.io/github/followers/luisjeremias?label=follow&style=social)](https://github.com/luisjeremias)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-geremias/)[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luisjeremias@gmail.com)[![Whats](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+258846125527)
+[![GitHub ;uisjeremias](https://img.shields.io/github/followers/luisjeremias?label=follow&style=social)](https://github.com/luisjeremias)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-geremias/)[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luisbiquelgeremias@gmail.com)[![Whats](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+258846125527)
 
 <img align="right" width="40%" src="https://raw.githubusercontent.com/luisjeremias/luisjeremias/master/gif.gif" alt="Coder"/>
 
