@@ -2,9 +2,9 @@
  
 <div> 
   <a href="https://youtube.com/channel/UCvBfaLT8sVCDuEGSO7p_xew" target="_blank"><img src="https://img.shields.io/badge/-Youtube-2b3c42?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-2b3c42?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2b3c42?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2b3c42?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/luis_geremias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-2b3c42?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luisbiquelgeremias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2b3c42?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luis-geremias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2b3c42?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <img align="right" width="40%" src="https://raw.githubusercontent.com/luisjeremias/luisjeremias/master/gif.gif" alt="Coder"/>
