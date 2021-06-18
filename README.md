@@ -20,13 +20,11 @@
 # My technologies
 
 <p align="left" style="min-width: 300px">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40" /> </p>
+
+ [![HTML Badge](https://img.shields.io/badge/-HTML-f67c01?style=for-the-badge&labelColor=141929&logo=html5&logoColor=f67c01)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-30ace0?style=for-the-badge&labelColor=141929&logo=css3&logoColor=30ace0)](#) [![JAVASCRIPT Badge](https://img.shields.io/badge/-Javascript-fbff00?style=for-the-badge&labelColor=141929&logo=javascript&logoColor=fbff00)](#)[![REACT Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=141929&logo=react&logoColor=61DBFB)](#)[![NODE Badge](https://img.shields.io/badge/-NodeJS-26bf00?style=for-the-badge&labelColor=141929&logo=node.js&logoColor=04bf1d)](#)[![PYTHON Badge](https://img.shields.io/badge/-Python-5d00ff?style=for-the-badge&labelColor=141929&logo=python&logoColor=5d00ff)](#) 
+
+
+</p>
 
 ![Snake animation](https://github.com/luisjeremias/luisjeremias/blob/output/github-contribution-grid-snake.svg)
  
