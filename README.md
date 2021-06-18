@@ -14,7 +14,7 @@
 #### .🐍I’m currently learning Python
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisjeremias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisjeremias&layout=compact&hide=html&theme=dark&hide_border=true" alt="mostusedlanguages" />
 </p>
     
 # My technologies
